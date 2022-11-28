@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Venkat Suravaram</h1>
 <h3 align="center">I'm a Big Data Enthusiast👨‍💻</h3>
-<h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
-🎓 I have completed my MCA from IGNOU</br>
+<h6 align="left">🏅 I recently completed my Big Data studies and have certification </br>
+🎓 I have 10 years of exp in Java, DB admin and Big data; I have Bachelor's degree in Computer Science Engineering </br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in Big Data and Data Engineering.</br>
 🤔 My interests are in Data Science, Web Development and in DB management.</br>
 💬 Ask me about anything, I am happy to help.</br>
